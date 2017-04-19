@@ -1,0 +1,15 @@
+Temperature= 10
+MSC= 100000
+max_bb= 0.01
+max_cm= 0.1
+bbrat= 1.0
+N_meas= 1
+N_A= 4
+N_B= 0
+M_A= 1.0
+M_B= 1.0
+g_A= 0.0
+g_B= 0.0
+g_AB= 0.0
+L= 10.0
+N_beads= 2
